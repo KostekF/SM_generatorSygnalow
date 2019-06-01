@@ -1,0 +1,29 @@
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Serial.resources
+C:\Users\Lukasz\Desktop\semestr 5\SM - laboratoria\SM projekt\dzien przed obrona\SM projekt_zajeciaprojektowenr2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Serial.resources
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Filip\Desktop\SM24-01_FILIP\CsharpMniej_Lukasz\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Serial.resources
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Studia-materialy-semestr 5\SM\Projekt_SM_KEIL_CSHARP_ukonczonyNa4\KodCSharp\LukaszMniej\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
