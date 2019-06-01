@@ -1,0 +1,5 @@
+# SM_generatorSygnalow [24.01.2018]
+
+Tematem projektu jest generator sygnałów. Program obsługujący mikrokontroler ADuC831 napisany w C. Interfejs do obsługi generatora napisany w C#.
+
+Mikrokontroler wystawia na wyjście DAC0 próbki napięcia wygenerowanego sygnału. Użytkownik komunikuje się z mikrokontrolerem przez program okienkowy napisany w C#. W programie okienkowym można wybrać jeden z pięciu dostępnych sygnałów do generacji. Istnieje również możliwość wprowadzania wartości parametrów generowanych sygnałów takich jak: offset, amplituda, okres, czas narastania, czas opadania, czas podtrzymania. Przy każdym zatwierdzeniu sygnału/parametru przez port szeregowy wysyłane są komendy, które wpływają na działanie programu po stronie mikrokontrolera. Mikrokontroler zwraca przez UART dane dotyczące obecnie generowanego sygnału, które są wyświetlane w programie okienkowym. Aby wygenerować sinusa skorzystano z internal XRAM, w którym na stałe stworzono tablice osiemdziesięciu próbek wygenerowanych w programie Matlab. Wartości próbek pozostałych sygnałów są obliczane na bieżąco.
